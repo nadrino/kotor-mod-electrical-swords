@@ -2,8 +2,9 @@
 
 ## Summary
 
-KOTOR mods modifying the appearance of melee swords by electrical
-swords for a more STAR WARS-like look.
+A mod for "Star Wars : Knights of the Old Republic" that modify the
+appearance of melee swords by electrical swords for a more
+STAR WARS-like look.
 
 This mod changes the appearance of every iron sword in the game.
 Every original sword has been slightly modified to add a colored
@@ -20,13 +21,14 @@ folder of your game.
 
 ## Tested game versions
 
-- PC (Original & Steam)
-- Macos
-- Nintendo Switch (`tpc` version)
-- iOS (`tga` version)
-
-The original XBox version of the game isn't compatible since
-the `.mdl` files make the game crash when displayed on screen.
+| Platform         | Works | Comment                                                   |
+|------------------|-------|-----------------------------------------------------------|
+| PC - Steam       | ✅️    |                                                           |
+| PC - Original CD | ✅️    |                                                           |
+| macOS            | ✅️    |                                                           |
+| Nintendo Switch  | ✅     | Only the `tpc` version                                    |
+| iOS              | ✅     | Only the `tga` version                                    |
+| XBox             | ❌     | `.mdl` files make the game crash when displayed on screen |
 
 
 ## Screeshots
