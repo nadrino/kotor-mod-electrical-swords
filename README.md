@@ -1,4 +1,4 @@
-# kotor-electrical-swords
+# kotor-mod-electrical-swords
 
 ## Summary
 
